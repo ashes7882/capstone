@@ -1,0 +1,21 @@
+.input{
+    padding: 10px;
+}
+
+.button{
+    justify-content: center;
+    display: flex;
+}
+
+button{
+    width: 100px;
+}
+
+.container{
+    
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
